@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "EShop"
 include(":app")
+include(":commonui")
